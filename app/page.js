@@ -2,7 +2,6 @@
 import {  persona,libro } from "./funciones/datos.js";
 //Donar Libros
 export default function Home() {
-  
   return (
   <div>
     <h1 className="titulo">Donar Libros</h1>
